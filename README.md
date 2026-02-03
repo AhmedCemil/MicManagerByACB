@@ -1,3 +1,5 @@
+[English](README.md) | [Türkçe](README.tr.md)
+
 # MicManagerByACB
 
 A lightweight Windows microphone mute toggle utility with system tray integration.
