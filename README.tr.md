@@ -9,7 +9,8 @@ Sistem tepsisi entegrasyonlu hafif bir Windows mikrofon sessiz/açık aracı.
 - **Global Kısayol Tuşu**: Özelleştirilebilir kısayol tuşu ile mikrofonu sessiz/açık yapın (varsayılan: Menu tuşu)
 - **Sistem Tepsisi**: Görsel sessiz durumu göstergesi ile sistem tepsisi simgesinden kolay erişim
 - **Çoklu Mikrofon Desteği**: Mevcut mikrofonlar arasında seçim yapın ve geçiş yapın
-- **Ekran Bildirimleri**: Sessiz durumu değiştiğinde görsel geri bildirim
+- **Monitör Seçimi**: Bildirimlerin hangi monitörde görüneceğini seçin (çoklu monitör desteği)
+- **Ekran Bildirimleri**: Sessiz durumu değiştiğinde görsel geri bildirim (her zaman görünür)
 - **Harici Değişiklik Algılama**: Diğer uygulamalar tarafından yapılan sessiz değişikliklerini algılar
 - **Yerelleştirme**: İngilizce ve Türkçe dil desteği (sistem dilini otomatik algılar)
 - **Başlangıçta Çalıştır**: Windows ile otomatik başlatma seçeneği
@@ -28,6 +29,7 @@ Sistem tepsisi entegrasyonlu hafif bir Windows mikrofon sessiz/açık aracı.
 - İçerik menüsü için tepsi simgesine **sağ tıklayın**:
   - Mikrofonu Sessiz/Açık Yap
   - Mevcut cihazlardan mikrofon seçin
+  - Bildirimler için monitör seçin
   - Kısayol tuşunu değiştir
   - Bildirimleri aç/kapat
   - Kısayol tuşu engellemeyi aç/kapat

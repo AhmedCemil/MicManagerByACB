@@ -9,7 +9,8 @@ A lightweight Windows microphone mute toggle utility with system tray integratio
 - **Global Hotkey**: Toggle microphone mute with a customizable hotkey (default: Menu key)
 - **System Tray**: Easy access via system tray icon with visual mute state indication
 - **Multiple Microphone Support**: Select and switch between available microphones
-- **On-Screen Notifications**: Visual feedback when mute state changes
+- **Monitor Selection**: Choose which monitor displays notifications (multi-monitor support)
+- **On-Screen Notifications**: Visual feedback when mute state changes (always visible)
 - **External Change Detection**: Detects mute changes made by other applications
 - **Localization**: English and Turkish language support (auto-detects system language)
 - **Run at Startup**: Option to launch automatically with Windows
@@ -28,6 +29,7 @@ A lightweight Windows microphone mute toggle utility with system tray integratio
 - **Right-click** the tray icon for the context menu:
   - Mute/Unmute Microphone
   - Select microphone from available devices
+  - Select monitor for notifications
   - Change hotkey
   - Toggle notifications
   - Enable/disable hotkey blocking
